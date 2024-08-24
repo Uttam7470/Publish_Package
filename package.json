@@ -1,0 +1,16 @@
+{
+  "name": "@uttampatidar/binary_search",
+  "version": "1.0.0",
+  "description": "This package is used to sort array in logn time",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary",
+    "search"
+  ],
+  "author": "Uttam Patidar",
+  "license": "ISC"
+}
